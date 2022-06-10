@@ -17,5 +17,5 @@ Programa Inovaccion Virtual
 
 Requisitos: 
 - Cuenta y suscripción Azure.
-- Azure Web App Services.}
+- Azure Web App Services.
 #
